@@ -49,7 +49,7 @@ Hendry's Bootcamp Task Project<br/>
 </div>
 
 
-**gtorresgrau/aboutme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gtorresgrau/gtorresgrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 </br>
 
