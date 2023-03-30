@@ -34,26 +34,33 @@ team, communication and autonomy.</h3>
 
 # Projects:
 <br/>
+ <h2>Portfolio</h2></br>
  
+![Henry1](https://res.cloudinary.com/dd4lvbjsy/image/upload/v1680193687/Home_a52qjx.png)
+<br/>
+
  <h2>Henry's Bootcamp Final project - E-commerce</h2></br>
  
-![Henry1](https://res.cloudinary.com/dd4lvbjsy/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1674665227/Captura_de_pantalla_2023-01-24_144005_x48dkz.png)
+![Henry2](https://res.cloudinary.com/dd4lvbjsy/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1674665227/Captura_de_pantalla_2023-01-24_144005_x48dkz.png)
 <br/>
  
 <h2>Hendry's Bootcamp Single Project</h2></br>
 
-![Henry2](https://res.cloudinary.com/dd4lvbjsy/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1674665230/Home_weqb9b.png)
+![Henry3](https://res.cloudinary.com/dd4lvbjsy/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1674665230/Home_weqb9b.png)
  <br/>
  
 <h2>Hendry's Bootcamp Task Project</h2></br>
 
-![Henry3](https://res.cloudinary.com/dd4lvbjsy/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1674665229/weather_qehf3d.png)
+![Henry4](https://res.cloudinary.com/dd4lvbjsy/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1674665229/weather_qehf3d.png)
 
 </br>
 
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/gonzalotorresgrau" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<a href="https://portfolio-gtorresgrau.vercel.app/" target="_blank">![Portfolio](https://img.shields.io/badge/GTG-Portfolio-blue)</a>
+
 
 </div>
 
