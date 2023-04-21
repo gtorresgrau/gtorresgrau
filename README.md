@@ -21,7 +21,7 @@ or <a href="mailto:gonzalotorresgrau@gmail.com"><b>email</b></a> me
 
 <div align="center">
 
- <h3>Full Stack Developer with English level C1 - Upper Intermediate. Experience working on NodeJS, React,
+ <h3>Full Stack Developer with English level B2 - Upper Intermediate. Experience working on NodeJS, React,
 Redux, PostgreSQL among other technologies in the sector. Among the Projects in which I have worked I developed my first project in React and I did a Deploy with the Railway 'Countries' platform, I also participated in the creation of an E-commerce for the purchase of sports shoes with Login, user administration, product loading and applying the MercadoPago payment gateway, with creative thinking, problem solving, work in
 team, communication and autonomy.</h3>
 
