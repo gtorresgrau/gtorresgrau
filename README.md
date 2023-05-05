@@ -13,8 +13,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything <a href="https://www.linkedin.com/in/gonzalotorresgrau/"><b>here</b></a><br>
 or <a href="mailto:gonzalotorresgrau@gmail.com"><b>email</b></a> me
 
-<i>Happy Coding!</i> 😊
-
 </div>
 
 # who I am?
