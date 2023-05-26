@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" width="50">
-<h2> WELCOME TO GONZALO 's GITHUB</h2>
+<h2> WELCOME TO MY GITHUB</h2>
 </div>
 
 <div align="center">
