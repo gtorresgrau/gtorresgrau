@@ -25,7 +25,7 @@ team, communication and autonomy.</h3>
 
 <a href="https://www.linkedin.com/in/gonzalotorresgrau" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
- <a href="https://portfolio-gtorresgrau.vercel.app/" target="_blank">![Portfolio](https://img.shields.io/badge/GTG-Portfolio-blue)</a>
+ <a href="https://gonzalotorresgrau.com/" target="_blank">![Portfolio](https://img.shields.io/badge/GTG-Portfolio-blue)</a>
 
 </div>
 
@@ -65,7 +65,7 @@ team, communication and autonomy.</h3>
 
 <a href="https://www.linkedin.com/in/gonzalotorresgrau" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<a href="https://portfolio-gtorresgrau.vercel.app/" target="_blank">![Portfolio](https://img.shields.io/badge/GTG-Portfolio-blue)</a>
+<a href="https://gonzalotorresgrau.com/" target="_blank">![Portfolio](https://img.shields.io/badge/GTG-Portfolio-blue)</a>
 
 
 </div>
