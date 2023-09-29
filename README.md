@@ -44,6 +44,12 @@ team, communication and autonomy.</h3>
  ![Alarma](https://res.cloudinary.com/dd4lvbjsy/image/upload/v1681142454/Home_ivmfgs.png)
 <br/>
 
+<h2>Personal Project - Residencia Salomon</h2></br>
+ 
+ ![Residencia](https://res.cloudinary.com/dd4lvbjsy/image/upload/v1695997153/ResidenciaSalomon/2_hol9qm.png*)
+<br/>
+
+
 <h2>Henry's Bootcamp Final project - E-commerce</h2></br>
 
  
