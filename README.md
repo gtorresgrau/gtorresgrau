@@ -46,7 +46,7 @@ team, communication and autonomy.</h3>
 
 <h2>Personal Project - Residencia Salomon</h2></br>
  
- ![Residencia](https://res.cloudinary.com/dd4lvbjsy/image/upload/v1695997153/ResidenciaSalomon/2_hol9qm.png*)
+ ![Residencia](https://res.cloudinary.com/dd4lvbjsy/image/upload/v1695997153/ResidenciaSalomon/2_hol9qm.png)
 <br/>
 
 
