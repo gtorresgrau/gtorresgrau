@@ -55,17 +55,6 @@ team, communication and autonomy.</h3>
  
 ![Henry2](https://res.cloudinary.com/dd4lvbjsy/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1674665227/Captura_de_pantalla_2023-01-24_144005_x48dkz.png)
 <br/>
- 
-<h2>Hendry's Bootcamp Single Project</h2></br>
-
-![Henry3](https://res.cloudinary.com/dd4lvbjsy/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1674665230/Home_weqb9b.png)
- <br/>
- 
-<h2>Hendry's Bootcamp Task Project</h2></br>
-
-![Henry4](https://res.cloudinary.com/dd4lvbjsy/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1674665229/weather_qehf3d.png)
-
-</br>
 
 <i>Follow me around the web:</i><br>
 
@@ -81,11 +70,9 @@ team, communication and autonomy.</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtorresgrau&hide_progress=true)<br/>
 
-**gtorresgrau/gtorresgrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 </br>
 
 -----
 Credits: [gtorresgrau](https://github.com/gtorresgrau)
 
-Last Edited on: 24/01/2023
+Last Edited on: 01/12/2023
